@@ -1,9 +1,9 @@
 #include "floor.h"
 
-extern const int SCREEN_W;
-extern const int SCREEN_H;
-extern const int FLOOR_W;
-extern const int FLOOR_H;
+extern int SCREEN_W;
+extern int SCREEN_H;
+extern int FLOOR_W;
+extern int FLOOR_H;
 extern float floor_x;
 extern float floor_y;
 
