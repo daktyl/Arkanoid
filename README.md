@@ -1,5 +1,5 @@
 # Arkanoid
-A basic clone of 2D retro game Arkanoid written in C and Allegro
+A basic clone of 2D retro game Arkanoid written in C and Allegro 5
 
 # Build Prerequisites
     CMake 3.3 (it will probably compile using older version too, see the last paragraph)
