@@ -1,6 +1,10 @@
 # Arkanoid
 A basic clone of 2D retro game Arkanoid written in C and Allegro
 
+# Build Prerequisites
+    CMake 3.3 (it will probably compile using older version too, see the last paragraph)
+    Allegro 5.0
+
 # Build instructions
 ```
 $ cmake .
@@ -27,6 +31,10 @@ Width         Sets game resolution (X axis).
 
 Height        Sets game resolution (Y axis).
 ```
+
+# How to play?
+Use left and right arrow keys to move the paddle in order to prevent the bouncer from touching the floor.
+You win when all the bricks are distroyed by the bouncer.
 
 # Too old CMake version?
 Try to change the minimum required version in CMakeLists.txt to match the version you have installed. There shouldn't be any issues.
