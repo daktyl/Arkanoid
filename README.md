@@ -21,9 +21,11 @@ Difficulty=1  Medium difficulty. Bouncer speed increases when it hits the wall o
 
 Difficulty=2  Hardest difficulty. The same as medium + base speed of the bouncer is higher.
 
-Width         Sets game resolution (X axis)
+Debug=1       Prints more debug information to the console.
 
-Height        Sets game resolution (Y axis)
+Width         Sets game resolution (X axis).
+
+Height        Sets game resolution (Y axis).
 ```
 
 # Too old CMake version?
