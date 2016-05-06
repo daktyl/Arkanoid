@@ -1,5 +1,5 @@
 # Arkanoid
-A basic clone of 2D retro game called "Arkanoid"
+A basic clone of 2D retro game Arkanoid written in C and Allegro
 
 # Build instructions
 ```
