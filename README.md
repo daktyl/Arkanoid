@@ -9,8 +9,8 @@ A basic clone of a 2D retro game Arkanoid written in C and Allegro 5
 ```
 git clone https://github.com/daktyl/Arkanoid.git
 cd Arkanoid/
-$ cmake .
-$ make
+cmake .
+make
 ```
 # Configuration
 **Use config.ini file to adjust the game settings to your needs.**
